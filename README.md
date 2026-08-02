@@ -52,9 +52,15 @@ payback9488@gmail.com
 
 <a href="https://somehdd.tistory.com/" target="_blank">
 <img src="https://img.shields.io/badge/Tech Blog-FFFFFF?style=badge&logo=tistory&logoColor=000000"/>
+</a>    
+
+### 
+
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=hamsik22&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/hamsik22"
+  width="600"
+  height="300"
+/>
 </a>
 
-
-<a href="https://github.com/devxb/gitanimals">
-<img src="https://render.gitanimals.org/farms/hamsik22" width="600" height="300"/>
-</a>
