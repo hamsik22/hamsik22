@@ -35,9 +35,11 @@
 
 ### 📫 Reach me
 
-- 📧 sh.hwang@hamsik.dev
-- 🌐 [프로필](https://hamsik22.github.io)
-- ✍️ [Tech Blog](https://somehdd.tistory.com/)
+📧 ```sh.hwang@hamsik.dev```
+
+🌐 [프로필](https://hamsik22.github.io)
+
+✍️ [Tech Blog](https://somehdd.tistory.com/)
 
 ---
 
